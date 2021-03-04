@@ -102,3 +102,9 @@ h3 {
     box-shadow: none;
     transform: none;
 }
+
+#progressBar {
+    width: 20rem;
+    height: 4rem;
+    border: 0.3rem solid #56a5eb;
+}
